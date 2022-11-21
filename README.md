@@ -1,2 +1,2 @@
-# diagrams
-Diagram Repository for Misc. Projects.
+# Diagrams for miscellaneous projects
+Each folder contain diagrams for different projects.
